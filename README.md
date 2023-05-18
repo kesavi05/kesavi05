@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavi05&layout=compact&theme=dark&langs_count=6" />
-<img width="49%" height="100%" src="https://activity-graph.herokuapp.com/graph?username=kesavi05&theme=xcode" />
+<img width="49%" height="100%" src=" https://activity-graph.herokuapp.com/graph?username=kesavi05&hide_border=true&area=true&point=transparent&theme=react-dark" />
 </p>
 
 
