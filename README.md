@@ -4,12 +4,12 @@
 
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayuravaani&show_icons=true&theme=merko" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuravaani&theme=merko" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kesavi05&show_icons=true&theme=merko" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kesavi05&theme=merko" />
 </p>
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuravaani&layout=compact&theme=dark&langs_count=6" />
-<img width="49%" height="100%" src="https://activity-graph.herokuapp.com/graph?username=mayuravaani&theme=xcode" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavi05&layout=compact&theme=dark&langs_count=6" />
+<img width="49%" height="100%" src="https://activity-graph.herokuapp.com/graph?username=kesavi05&theme=xcode" />
 </p>
 
 
